@@ -23,6 +23,12 @@ COOKIE-1816/COOKIE-1816 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+# Support My Work
+If you enjoy my projects and want to support my work, consider donating to help fund the purchase of hardware components, tools, and other necessary resources on [Buy Me a Coffee](https://www.buymeacoffee.com/vhajsman)  
+Your support helps me continue to work on exciting projects and develop new ideas. Thank you for your generosity!  
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/default-blue.png)](https://www.buymeacoffee.com/yourusername)
+
 # Collaboration
 - 🖌️ I am currently looking for **graphics designers** to design things such as **icons, wallpaper, backgrounds, stylesheets, videogame characters**, because i am not too good in graphical design at all.
 
